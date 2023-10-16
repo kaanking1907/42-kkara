@@ -1,0 +1,24 @@
+Last login: Tue Oct 17 00:33:12 on ttys000
+togy@Kaans-MacBook-Pro ~ % cat > z
+z
+togy@Kaans-MacBook-Pro ~ % cat z
+z
+togy@Kaans-MacBook-Pro ~ % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
